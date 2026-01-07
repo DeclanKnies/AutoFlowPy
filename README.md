@@ -1,4 +1,6 @@
-#FlowPy Alpha Angle Validation Workflow
+<h1>FlowPy Alpha Angle Validation Workflow</h1>
+
+<h2>Working Version</h2>
 
 1. Create algorhythm to take larger area polygon of Inputs (PRA, FS, DSM), then use the avalanchepaths polygon (with buffer?) to cut each slide path out individually.
 
@@ -11,7 +13,4 @@
 5. Compare calculated alpha angle through flowpy to the occurance alpha angle dataset and create comparison figures.
 
 6. Test different forest frictions and input alpha angles to occurance dataset
-# AutoFlowPy
-# AutoFlowPy
-# AutoFlowPy
-# AutoFlowPy
+
